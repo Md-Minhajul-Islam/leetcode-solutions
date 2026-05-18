@@ -1,19 +1,20 @@
 # Write your MySQL query statement below
 
+WITH FirstLogin AS (
+    SELECT 
+    player_id, 
+    MIN(event_date) AS event_date
+    FROM Activity
+    GROUP BY player_id
+),
+NextLogin AS (
+    SELECT DISTINCT a.player_id
+    FROM Activity a
+    JOIN FirstLogin f
+    ON a.player_id = f.player_id
+    WHERE DATEDIFF(a.event_date, f.event_date) = 1
+)
 
-SELECT
-    ROUND(
-        (SELECT 
-            COUNT(*)
-            FROM Activity a1
-            JOIN Activity a2
-            ON a1.player_id = a2.player_id
-            WHERE DATEDIFF(a1.event_date, a2.event_date) = 1
-            AND a2.event_date = (
-                SELECT MIN(event_date)
-                FROM Activity
-                WHERE player_id = a2.player_id
-            ) 
-        ) / 
-        ( SELECT COUNT(DISTINCT player_id) FROM Activity)
-, 2) AS fraction;
+SELECT 
+ROUND(COUNT(*)*1.0 / (SELECT COUNT(DISTINCT player_id) FROM Activity), 2) AS fraction
+FROM NextLogin
