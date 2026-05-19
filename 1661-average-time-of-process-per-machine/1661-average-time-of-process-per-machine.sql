@@ -1,4 +1,4 @@
-# Write your MySQL query statement below
+/* Write your T-SQL query statement below */
 SELECT
     machine_id,
     ROUND(SUM(CASE WHEN activity_type='start' THEN timeStamp*-1 ELSE timeStamp END)*1.0
