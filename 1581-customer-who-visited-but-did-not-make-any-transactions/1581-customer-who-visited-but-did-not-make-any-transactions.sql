@@ -1,5 +1,4 @@
-# Write your MySQL query statement below
-
+/* Write your T-SQL query statement below */
 SELECT v.customer_id as customer_id, COUNT(*) as count_no_trans
 FROM Visits v
 LEFT JOIN Transactions t
