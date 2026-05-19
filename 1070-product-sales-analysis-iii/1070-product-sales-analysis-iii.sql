@@ -1,4 +1,4 @@
-# Write your MySQL query statement below
+/* Write your T-SQL query statement below */
 WITH FirstYearEntries AS (
     SELECT 
     product_id,
