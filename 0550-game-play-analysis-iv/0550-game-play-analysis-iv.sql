@@ -1,5 +1,4 @@
-# Write your MySQL query statement below
-
+/* Write your T-SQL query statement below */
 WITH FirstLogin AS (
     SELECT 
     player_id, 
@@ -12,7 +11,7 @@ NextLogin AS (
     FROM Activity a
     JOIN FirstLogin f
     ON a.player_id = f.player_id
-    WHERE DATEDIFF(a.event_date, f.event_date) = 1
+    WHERE DATEDIFF(DAY, f.event_date, a.event_date) = 1
 )
 
 SELECT 
