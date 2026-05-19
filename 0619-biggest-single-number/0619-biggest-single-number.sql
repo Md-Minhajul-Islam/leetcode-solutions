@@ -1,5 +1,4 @@
-# Write your MySQL query statement below
-
+/* Write your T-SQL query statement below */
 SELECT MAX(num) AS NUM
 FROM (
     SELECT num
