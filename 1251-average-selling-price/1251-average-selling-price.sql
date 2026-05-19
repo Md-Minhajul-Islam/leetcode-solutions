@@ -1,7 +1,7 @@
-# Write your MySQL query statement below
+/* Write your T-SQL query statement below */
 SELECT 
 p.product_id,
-ROUND(IFNULL(SUM(p.price*u.units)/SUM(u.units), 0) , 2) AS average_price
+ROUND(ISNULL(SUM(p.price*u.units)*1.0/SUM(u.units), 0) , 2) AS average_price
 FROM Prices p
 LEFT JOIN UnitsSold u
 ON 
