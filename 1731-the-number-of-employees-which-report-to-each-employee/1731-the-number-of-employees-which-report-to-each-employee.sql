@@ -3,7 +3,7 @@ WITH Managers AS (
     SELECT
     reports_to as manager_id,
     COUNT(DISTINCT employee_id) as reports_count,
-    AVG(age*1.0) as average_age
+    AVG(CAST(age AS FLOAT)) as average_age
     FROM Employees
     GROUP BY reports_to
 )
