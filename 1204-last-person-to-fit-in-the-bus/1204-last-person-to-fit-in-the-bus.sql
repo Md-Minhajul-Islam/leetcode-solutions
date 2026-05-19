@@ -1,4 +1,3 @@
-# Write your MySQL query statement below
 
 WITH sortedWeightSum AS (
     SELECT
@@ -9,9 +8,8 @@ WITH sortedWeightSum AS (
     FROM Queue
 )
 
-SELECT
+SELECT TOP 1
 person_name
 FROM sortedWeightSum
 WHERE total_weight <= 1000
 ORDER BY turn DESC
-LIMIT 1
