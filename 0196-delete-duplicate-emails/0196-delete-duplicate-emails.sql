@@ -1,5 +1,8 @@
 /* Write your T-SQL query statement below */
-DELETE p1
-FROM Person p1
-JOIN Person p2
-ON p1.email = p2.email AND p1.id > p2.id
+WITH ranked AS (
+    SELECT *,
+    DENSE_RANK() OVER (PARTITION BY email ORDER BY id) AS rn
+    FROM Person
+)
+DELETE FROM ranked
+WHERE rn > 1;
