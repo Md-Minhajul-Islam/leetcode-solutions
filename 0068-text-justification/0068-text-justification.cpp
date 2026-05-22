@@ -22,15 +22,11 @@ public:
                 }
                 string s = "";
 
-                int sp = r-l-1;
                 for(int i = l; i < r; i++)
                 {
                     s += words[i];
-                    if(sp > 0 || r-l-1 == 0)
-                    {
-                        for(int j = 0; j < seg; j++) s += " ";
-                        sp--;
-                    }
+                    if(s.size() >= maxWidth) break;
+                    for(int j = 0; j < seg; j++) s += " ";
                     if(mod > 0) s += " ", mod--;
                 }
                 ans.push_back(s);
