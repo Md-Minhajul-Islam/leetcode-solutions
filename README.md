@@ -55,8 +55,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0068-text-justification) |
+| [2468-split-message-based-on-limit](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/2468-split-message-based-on-limit) |
 ## Simulation
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0068-text-justification) |
+## Enumeration
+|  |
+| ------- |
+| [2468-split-message-based-on-limit](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/2468-split-message-based-on-limit) |
 <!---LeetCode Topics End-->
