@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0068-text-justification) |
+| [0468-validate-ip-address](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0468-validate-ip-address) |
 | [2468-split-message-based-on-limit](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/2468-split-message-based-on-limit) |
 ## Simulation
 |  |
