@@ -9,21 +9,18 @@ public:
         for(auto &n: nums)
         {
             if(vis.count(n)) continue;
-            if(hashMap.count(n))
+            int cnt = 0;
+            for(int i = n; hashMap.count(i); i++)
             {
-                int cnt = 0;
-                for(int i = n; hashMap.count(i); i++)
-                {
-                    vis[i] = 1;
-                    cnt++;
-                }
-                for(int i = n-1; hashMap.count(i); i--)
-                {
-                    vis[i] = 1;
-                    cnt++;
-                }
-                mx = max(mx, cnt);
+                vis[i] = 1;
+                cnt++;
             }
+            for(int i = n-1; hashMap.count(i); i--)
+            {
+                vis[i] = 1;
+                cnt++;
+            }
+            mx = max(mx, cnt);
         }
         return mx;
     }
