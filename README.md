@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0068-text-justification](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0068-text-justification) |
 | [0128-longest-consecutive-sequence](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -91,4 +92,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
