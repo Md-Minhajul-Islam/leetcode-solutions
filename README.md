@@ -57,11 +57,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0189-rotate-array](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0189-rotate-array) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2306-naming-a-company](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/2306-naming-a-company) |
 ## String
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0068-text-justification) |
 | [0468-validate-ip-address](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0468-validate-ip-address) |
+| [2306-naming-a-company](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/2306-naming-a-company) |
 | [2468-split-message-based-on-limit](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/2468-split-message-based-on-limit) |
 ## Simulation
 |  |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2306-naming-a-company](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/2306-naming-a-company) |
 | [2468-split-message-based-on-limit](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/2468-split-message-based-on-limit) |
 ## Math
 |  |
@@ -89,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
+| [2306-naming-a-company](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/2306-naming-a-company) |
 ## Union-Find
 |  |
 | ------- |
@@ -102,4 +106,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0078-subsets) |
+| [2306-naming-a-company](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/2306-naming-a-company) |
 <!---LeetCode Topics End-->
