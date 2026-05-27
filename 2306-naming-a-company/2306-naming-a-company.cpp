@@ -6,7 +6,6 @@ public:
         for(auto& idea: ideas) hashMap[idea] = true;
 
         vector<vector<int>> v(30, vector<int>(30));
-
         for(auto& idea: ideas)
         {
             int r = idea[0]-'a';
@@ -17,16 +16,10 @@ public:
                 if(!hashMap.count(idea)) v[r][c]++;
             }
         }
-
         long long ans = 0;
         for(int i = 0; i < 26; i++)
-        {
             for(int j = 0; j < 26; j++)
-            {
                 ans += v[i][j]*v[j][i];
-            }
-            cout << "\n";
-        }
         return ans;
     }
 };
