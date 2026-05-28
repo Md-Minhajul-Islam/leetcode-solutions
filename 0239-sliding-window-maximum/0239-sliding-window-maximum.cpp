@@ -2,8 +2,8 @@ class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
         int n = nums.size();
-        // int dq[n];
-        vector<int> dq(n), ans(n-k+1);
+        int dq[n];
+        vector<int> ans(n-k+1);
         int l = 0, r = -1;
         for(int i = 0; i < n; i++)
         {
