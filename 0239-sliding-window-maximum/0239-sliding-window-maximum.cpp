@@ -1,9 +1,11 @@
 class Solution {
 public:
     vector<int> maxSlidingWindow(vector<int>& nums, int k) {
-        vector<int> dq(nums.size()), ans(nums.size()-k+1);
+        int n = nums.size();
+        int dq[n];
+        vector<int> ans(n-k+1);
         int l = 0, r = -1;
-        for(int i = 0; i < nums.size(); i++)
+        for(int i = 0; i < n; i++)
         {
             if(l <= r && dq[l] <= i-k) l++;
             while(l <= r && nums[dq[r]] <= nums[i]) r--;
