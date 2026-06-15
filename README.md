@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0001-two-sum) |
 | [0042-trapping-rain-water](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0048-rotate-image) |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
