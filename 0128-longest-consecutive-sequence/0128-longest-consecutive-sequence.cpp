@@ -6,16 +6,16 @@ public:
         for(auto &n: nums) hashMap[n] = 1;
 
         int mx = 0;
-        for(auto &n: nums)
+        for(auto &[k, v]: hashMap)
         {
-            if(vis.count(n)) continue;
+            if(vis.count(k)) continue;
             int cnt = 1;
-            for(int i = n+1; hashMap.count(i); i++)
+            for(int i = k+1; hashMap.count(i); i++)
             {
                 vis[i] = 1;
                 cnt++;
             }
-            for(int i = n-1; hashMap.count(i); i--)
+            for(int i = k-1; hashMap.count(i); i--)
             {
                 vis[i] = 1;
                 cnt++;
