@@ -2,25 +2,15 @@ class Solution {
 public:
     int longestConsecutive(vector<int>& nums) {
         
-        unordered_map<int, int> hashMap, vis;
-        for(auto &n: nums) hashMap[n] = 1;
+        unordered_set<int> s(nums.begin(), nums.end());
 
         int mx = 0;
-        for(auto &[k, v]: hashMap)
+        for(auto &n: s)
         {
-            if(vis.count(k)) continue;
-            int cnt = 1;
-            for(int i = k+1; hashMap.count(i); i++)
-            {
-                vis[i] = 1;
-                cnt++;
-            }
-            for(int i = k-1; hashMap.count(i); i--)
-            {
-                vis[i] = 1;
-                cnt++;
-            }
-            mx = max(mx, cnt);
+            if(s.count(n-1)) continue;
+            int curr = n, len = 0;
+            while(s.count(curr)) ++curr, ++len;
+            mx = max(mx, len);
         }
         return mx;
     }
