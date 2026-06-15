@@ -8,10 +8,9 @@ public:
         for(auto &[k, v]: hashMap) bucket[v].push_back(k);
 
         vector<int> ans;
-        for(auto it = bucket.rbegin(); it != bucket.rend(); ++it)
+        for(int i = bucket.size()-1; i >= 0 && k > 0; i--)
         {
-            if(k <= 0) break;
-            for(auto &n: *it)
+            for(auto &n: bucket[i])
             {
                 k--;
                 ans.push_back(n);
