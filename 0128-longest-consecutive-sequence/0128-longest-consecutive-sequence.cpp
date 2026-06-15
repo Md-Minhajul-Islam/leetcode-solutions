@@ -9,8 +9,8 @@ public:
         for(auto &n: nums)
         {
             if(vis.count(n)) continue;
-            int cnt = 0;
-            for(int i = n; hashMap.count(i); i++)
+            int cnt = 1;
+            for(int i = n+1; hashMap.count(i); i++)
             {
                 vis[i] = 1;
                 cnt++;
