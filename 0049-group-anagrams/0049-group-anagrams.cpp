@@ -6,14 +6,18 @@ public:
 
         for(auto &s: strs)
         {
-            string temp = s;
-            sort(temp.begin(), temp.end());
-            hashMap[temp].push_back(s);
+            int cnt[26] = {};
+            for(auto &c: s) cnt[c-'a']++;
+
+            string key = "";
+            for(int i = 0; i < 26; i++) key += "#"+to_string(cnt[i]);
+
+            hashMap[key].push_back(s);
         }
 
-        for(auto &u: hashMap)
+        for(auto &[u, v]: hashMap)
         {
-            ans.push_back(move(u.second));
+            ans.push_back(move(v));
         }
 
         return ans;
