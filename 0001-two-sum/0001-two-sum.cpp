@@ -5,9 +5,10 @@ public:
         vector<int> ans;
         for(int i = 0; i < nums.size(); i++)
         {
-            if(hashMap.count(target-nums[i]))
+            auto it = hashMap.find(target-nums[i]);
+            if(it != hashMap.end())
             {
-                return {hashMap[target-nums[i]], i};
+                return {it->second, i};
             }
             hashMap[nums[i]] = i;
         }
