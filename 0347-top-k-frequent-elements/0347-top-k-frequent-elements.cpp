@@ -2,9 +2,10 @@ class Solution {
 public:
     vector<int> topKFrequent(vector<int>& nums, int k) {
         unordered_map<int, int> hashMap;
-        for(auto &n: nums) hashMap[n]++;
+        int mx = 0;
+        for(auto &n: nums) mx = max(++hashMap[n], mx);
 
-        vector<vector<int>> bucket(1e5+5);
+        vector<vector<int>> bucket(mx+2);
         for(auto &[k, v]: hashMap) bucket[v].push_back(k);
 
         vector<int> ans;
