@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0046-permutations](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0068-text-justification) |
 | [0078-subsets](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0078-subsets) |
 | [0128-longest-consecutive-sequence](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0214-shortest-palindrome](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0214-shortest-palindrome) |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0001-two-sum) |
+| [0049-group-anagrams](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
@@ -163,4 +166,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
+## Sorting
+|  |
+| ------- |
+| [0049-group-anagrams](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0049-group-anagrams) |
 <!---LeetCode Topics End-->
