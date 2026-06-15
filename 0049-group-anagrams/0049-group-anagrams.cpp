@@ -13,7 +13,7 @@ public:
 
         for(auto &u: hashMap)
         {
-            ans.push_back(u.second);
+            ans.push_back(move(u.second));
         }
 
         return ans;
