@@ -4,11 +4,11 @@ public:
         vector<vector<string>> ans;
         unordered_map<string, vector<string>> hashMap;
 
-        for(int i = 0; i < strs.size(); i++)
+        for(auto &s: strs)
         {
-            string temp = strs[i];
+            string temp = s;
             sort(temp.begin(), temp.end());
-            hashMap[temp].push_back(strs[i]);
+            hashMap[temp].push_back(s);
         }
 
         for(auto &u: hashMap)
