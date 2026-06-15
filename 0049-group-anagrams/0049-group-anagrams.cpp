@@ -6,11 +6,11 @@ public:
 
         for(auto &s: strs)
         {
-            int cnt[26] = {};
+            vector<int> cnt(26);
             for(auto &c: s) cnt[c-'a']++;
 
             string key = "";
-            for(int i = 0; i < 26; i++) key += "#"+to_string(cnt[i]);
+            for(auto &n: cnt) key += "#"+to_string(n);
 
             hashMap[key].push_back(s);
         }
