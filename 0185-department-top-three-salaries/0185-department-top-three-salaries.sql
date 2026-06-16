@@ -1,18 +1,20 @@
 /* Write your T-SQL query statement below */
 
 WITH salaryTable AS (
-    SELECT
-    d.name AS Department,
-    e.name AS Employee,
+    SELECT 
+    d.name AS Department, 
+    e.name AS Employee, 
     e.salary AS Salary,
-    DENSE_RANK() OVER(PARTITION BY d.id ORDER BY e.salary DESC) AS rank
+    DENSE_RANK() OVER(PARTITION BY d.id ORDER BY e.salary DESC) AS rank 
     FROM Employee e
-    JOIN Department d ON e.departmentId = d.id 
+    JOIN Department d
+    ON e.departmentId = d.id
 )
 
-SELECT 
+SELECT
 Department,
 Employee,
 Salary
 FROM salaryTable
-WHERE rank <= 3
+WHERE rank <= 3;
+
