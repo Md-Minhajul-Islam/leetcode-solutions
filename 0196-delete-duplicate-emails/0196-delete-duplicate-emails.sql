@@ -1,12 +1,6 @@
 /* Write your T-SQL query statement below */
 
-WITH rankedTable AS (
-    SELECT
-    *,
-    DENSE_RANK() OVER(PARTITION BY email ORDER BY id) as rank
-    FROM Person
-)
-
-DELETE
-FROM rankedTable 
-WHERE rank > 1
+DELETE p1
+FROM Person p1
+JOIN Person p2
+ON p1.email = p2.email AND p1.id > p2.id
