@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0006-zigzag-conversion](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0049-group-anagrams](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0076-minimum-window-substring) |
