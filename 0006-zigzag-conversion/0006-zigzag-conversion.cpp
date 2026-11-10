@@ -1,28 +1,17 @@
 class Solution {
 public:
     string convert(string s, int numRows) {
-        int row = numRows;
 
-        vector<string> mat(row, "");
+        if(numRows == 1 || s.size() <= numRows) return s;
 
-        int ind = 0, r = 0;
-        while(ind < s.size())
+        vector<string> mat(numRows, "");
+        int r = 0, dir = 1;
+        for(auto c: s)
         {
-            while(r >= 0 && r < row && ind < s.size())
-            {
-                mat[r] += s[ind];
-                r++; ind++;
-            }
-            r = (r-2 < 0 ? 0 : r-2);
-
-            if(numRows <= 2) continue;
-            
-            while(r >= 0 && r < row && ind < s.size())
-            {
-                mat[r] += s[ind];
-                r--; ind++;
-            }
-            r+=2;
+            mat[r] += c;
+            if(r == 0) dir = 1;
+            if(r == numRows-1) dir = -1;
+            r += dir;
         }
 
         string ans = "";
