@@ -26,10 +26,7 @@ public:
         }
 
         string ans = "";
-        for(auto &v: mat)
-        {
-            for(auto &ch: v) ans += ch;
-        }
+        for(auto &str: mat) ans += str;
 
         return ans;
     }
