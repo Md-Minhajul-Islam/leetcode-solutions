@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0006-zigzag-conversion) |
+| [0010-regular-expression-matching](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0049-group-anagrams](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0076-minimum-window-substring) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [3693-climbing-stairs-ii](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Stack
@@ -205,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
