@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0006-zigzag-conversion](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0006-zigzag-conversion) |
 | [0010-regular-expression-matching](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0010-regular-expression-matching) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0068-text-justification](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0076-minimum-window-substring) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0001-two-sum) |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0049-group-anagrams](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -169,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0030-substring-with-concatenation-of-all-words](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0239-sliding-window-maximum](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [2747-count-zero-request-servers](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
