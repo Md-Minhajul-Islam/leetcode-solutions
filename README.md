@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0189-rotate-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Matrix
 |  |
 | ------- |
@@ -231,4 +232,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Greedy
+|  |
+| ------- |
+| [3789-minimum-cost-to-acquire-required-items](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 <!---LeetCode Topics End-->
