@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1267-count-servers-that-communicate](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/1882-process-tasks-using-servers) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [0189-rotate-array](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0189-rotate-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
@@ -217,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 ## Divide and Conquer
 |  |
@@ -259,4 +262,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1267-count-servers-that-communicate](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
+## Binary Search
+|  |
+| ------- |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 <!---LeetCode Topics End-->
