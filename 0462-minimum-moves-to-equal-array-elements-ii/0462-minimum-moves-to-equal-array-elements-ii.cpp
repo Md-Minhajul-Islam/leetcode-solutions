@@ -1,7 +1,8 @@
 class Solution {
 public:
     int minMoves2(vector<int>& nums) {
-        int low = -1e9, high = 1e9;
+        int low = *min_element(nums.begin(), nums.end());
+        int high = *max_element(nums.begin(), nums.end());
         long long minMoves = LLONG_MAX;
         while(low <= high)
         {
