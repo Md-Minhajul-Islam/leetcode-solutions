@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1267-count-servers-that-communicate](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0189-rotate-array) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0049-group-anagrams) |
 | [0347-top-k-frequent-elements](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2747-count-zero-request-servers](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/2747-count-zero-request-servers) |
 ## Divide and Conquer
