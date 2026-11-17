@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3364-minimum-positive-sum-subarray](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3693-climbing-stairs-ii](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
 |  |
 | ------- |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0189-rotate-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 ## Matrix
 |  |
