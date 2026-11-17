@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0076-minimum-window-substring) |
 | [0214-shortest-palindrome](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0214-shortest-palindrome) |
 | [0468-validate-ip-address](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0468-validate-ip-address) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2306-naming-a-company](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/2306-naming-a-company) |
 | [2468-split-message-based-on-limit](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/2468-split-message-based-on-limit) |
 ## Simulation
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0068-text-justification](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0068-text-justification) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Enumeration
 |  |
 | ------- |
