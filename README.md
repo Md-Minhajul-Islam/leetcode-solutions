@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+| [3665-twisted-mirror-path-count](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## String
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1074-number-of-submatrices-that-sum-to-target](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/1074-number-of-submatrices-that-sum-to-target) |
 | [1267-count-servers-that-communicate](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/1267-count-servers-that-communicate) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [3665-twisted-mirror-path-count](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 ## Two Pointers
 |  |
 | ------- |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0042-trapping-rain-water) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
+| [3665-twisted-mirror-path-count](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/3693-climbing-stairs-ii) |
 ## Stack
 |  |
