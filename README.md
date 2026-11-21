@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-naming-a-company](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/2306-naming-a-company) |
 | [2468-split-message-based-on-limit](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/2468-split-message-based-on-limit) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Simulation
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/0347-top-k-frequent-elements) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1882-process-tasks-using-servers](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/1882-process-tasks-using-servers) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -275,4 +277,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+## Graph Theory
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/Md-Minhajul-Islam/leetcode-solutions/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
